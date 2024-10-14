@@ -9,6 +9,7 @@
 
 ###
 
+  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ4NmMzeDl1aTZwNnowMHY1YnM4ZmdjNWphdG11d3BuMnN6OWgzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" />
   <img align="right" height="150" src="https://github.com/user-attachments/assets/55aed920-64f5-44af-a116-23a156f5c483" />
   
 ###
