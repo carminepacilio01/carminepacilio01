@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carmine and I'm a Computer Science Student.</h2>
+<h2 align="left">Hi 👋! My name is Carmine, a Computer Science Student.</h2>
 
 ###
 
@@ -21,17 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
 </div>
@@ -44,9 +36,6 @@
   </a>
   <a href="https://www.instagram.com/carminepacilio01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="@carminepacilio01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
@@ -80,14 +69,31 @@
 | **Version Control & Tools**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 | **Design Tools**       | <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white"/> |
 | **IDE**                | <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> |
-| **FPGA Tools**         | <img src="https://img.shields.io/badge/Vitis_HLS-0066CC?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/Vivado-FF3300?style=for-the-badge&logo=xilinx&logoColor=white"/> |
+| **FPGA Tools**         | <img src="https://img.shields.io/badge/Vitis_HLS-0066CC?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/Vivado-FF3300?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-0175C2?style=for-the-badge&logo=VHDL&logoColor=white" />
+|
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Repository | Tech Stack & Tools |
+|:--------- |:----------:|:-------------------|
+|  FPGA Implementation of Smith Waterman algorithm | [view](https://github.com/carminepacilio01/FPGA-Implementation-of-Smith-Waterman-algorithm) | `FPGA` `Genomics` `Vitis HLS` `C/C++` |
+
 
 <br>
 
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![carminepacilio01 github stats](https://github-readme-stats.vercel.app/api?username=carminepacilio01\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![carminepacilio01 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carminepacilio01&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
 
 ###
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
