@@ -8,13 +8,8 @@
   </div>
 
 ###
-
-  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ4NmMzeDl1aTZwNnowMHY1YnM4ZmdjNWphdG11d3BuMnN6OWgzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" />
-  <img align="right" height="150" src="https://github.com/user-attachments/assets/55aed920-64f5-44af-a116-23a156f5c483" />
-  
-###
 <!-- Badge linguaggi (allineati a sinistra) -->
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -33,7 +28,7 @@
 ###
 
 <!-- Social Media Icons -->
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/carmine-pacilio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
