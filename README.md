@@ -64,8 +64,7 @@
 | **Version Control & Tools**| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 | **Design Tools**       | <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white"/> |
 | **IDE**                | <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> |
-| **FPGA Tools**         | <img src="https://img.shields.io/badge/Vitis_HLS-0066CC?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/Vivado-FF3300?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-0175C2?style=for-the-badge&logo=VHDL&logoColor=white" />
-|
+| **FPGA Tools**         | <img src="https://img.shields.io/badge/Vitis_HLS-0066CC?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/Vivado-FF3300?style=for-the-badge&logo=xilinx&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-0175C2?style=for-the-badge&logo=VHDL&logoColor=white" /> |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
