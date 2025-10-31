@@ -76,6 +76,8 @@
 | Projects | Repository | Tech Stack & Tools |
 |:--------- |:----------:|:-------------------|
 |  FPGA Implementation of Smith Waterman algorithm | [view](https://github.com/carminepacilio01/FPGA-Implementation-of-Smith-Waterman-algorithm) | `FPGA` `Genomics` `Vitis HLS` `C/C++` |
+|  SWAIE | [view](https://github.com/carminepacilio01/SWAIE) | `AIE` `FPGA` `Genomics` `Vitis` `C/C++` |
+|  MySheflie | [view](https://github.com/carminepacilio01/MyShelfie) | `Java` `Software Engineering` |
 
 
 <br>
